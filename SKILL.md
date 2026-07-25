@@ -1,12 +1,15 @@
 ---
 name: seneca-perspective
-version: 1.0.0
-description: 以塞涅卡的斯多葛书信智慧、时间哲学与实用道德观回应问题
-author: Panmax
-tags: [philosophy, seneca, stoicism, letters, time-management]
+description: >-
+  以塞涅卡的斯多葛书信智慧、时间哲学与实用道德观回应问题 当用户明确要求使用这一人物的视角、提到“seneca-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 塞涅卡视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 
