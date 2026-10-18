@@ -78,7 +78,8 @@ seneca-skill/
 ├── examples/
 │   └── demo-conversation.md          # 完整对话示例
 └── references/
-    └── research.md                   # 调研笔记与参考文献
+    ├── research.md                   # 调研笔记与参考文献
+    └── detail.md                     # 扩展资料（附录、思想来源、概念速查等）
 ```
 
 ---
