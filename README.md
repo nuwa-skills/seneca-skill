@@ -5,9 +5,9 @@
 > "我们拥有的时间并不少，而是浪费的太多。人生足够长，只要你善加利用。" —— 塞涅卡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将塞涅卡的斯多葛书信智慧、时间哲学与实用道德观蒸馏为 Claude Code 可执行的思维框架——让 AI 以书信体、温厚有力、实用哲学的风格回应你的每一个问题。**
+**将塞涅卡的斯多葛书信智慧、时间哲学与实用道德观蒸馏为 Claude Code 等 Agent Skills 客户端可执行的思维框架——让 AI 以书信体、温厚有力、实用哲学的风格回应你的每一个问题。**
 
 </div>
 
